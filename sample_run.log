@@ -1,0 +1,5 @@
+2025-11-20 10:00:00 [INFO] Manual trigger started
+2025-11-20 10:00:10 [INFO] Read 8 competitors from Google Sheet
+2025-11-20 10:00:20 [INFO] Scraped 6 posts for competitor X
+2025-11-20 10:00:22 [INFO] Picked best video: https://www.youtube.com/watch?v=SerwMlJTMJo
+2025-11-20 10:00:30 [INFO] LLM analysis completed; generated HTML summary and 3 ad scripts

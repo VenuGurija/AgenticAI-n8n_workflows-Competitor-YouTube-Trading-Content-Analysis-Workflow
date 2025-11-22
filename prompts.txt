@@ -1,0 +1,48 @@
+Prompt 1: YouTube Video Analysis
+---
+You are an expert trading content analyst.
+
+Analyze the following video and provide:
+1. 30-word summary
+2. Top 3 hooks with timestamps if visible
+3. Main audience
+4. Core pain-point
+5. 3 potential ad angles
+
+Video:
+URL: {{url}}
+Title: {{title}}
+Metrics: views={{views}}, likes={{likes}}, comments={{comments}}
+
+Prompt 2: Competitor Summary + Insights
+---
+You are a senior marketing strategist for CrowdWisdomTrading.
+
+Given the scraped posts, generate:
+1. Top 5 insights
+2. Observed patterns in competitor marketing
+3. Gaps and opportunities we can exploit
+4. Winning creative elements you see repeating
+
+Prompt 3: Final HTML Summary
+---
+Create a clean, modern HTML summary including:
+- Title
+- 3 major insights
+- 5 takeaways
+- Best-performing competitor video
+- Metrics table
+- Recommended ad angles
+
+Prompt 4: Ad Script Generator
+---
+Write 3 high-quality ad scripts for CrowdWisdomTrading.
+
+Each script must have:
+- Hook (5 seconds)
+- Body (25 seconds)
+- CTA (5 seconds)
+- Tone: Conversational, direct, high-conversion
+
+Target: Beginners + struggling traders.
+Product: crowdwisdomtrading.com
